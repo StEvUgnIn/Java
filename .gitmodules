@@ -1,0 +1,6 @@
+[submodule "HS17"]
+	path = HS17
+	url = https://github.com/StEvUgnIn/Java-HS17.git
+[submodule "FS18"]
+	path = FS18
+	url = https://github.com/StEvUgnIn/Java-FS18.git
